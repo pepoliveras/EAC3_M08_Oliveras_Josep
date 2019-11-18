@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EAC3_P2_Oliveras_Josep</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="normal_map">Mapa normal</string>
+    <string name="hybrid_map">Mapa Hibrid</string>
+    <string name="satellite_map">Mapa de Satel·lit</string>
+    <string name="terrain_map">Mapa Geogràfic</string>
+    <string name="dropped_pin">nou marcador</string>
+</resources>
